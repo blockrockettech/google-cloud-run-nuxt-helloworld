@@ -1,4 +1,4 @@
-# nifty-football-dapp
+# Hello World - Google Cloud Run & Nuxt.js
 
 > My hunky-dory Nuxt.js project
 
